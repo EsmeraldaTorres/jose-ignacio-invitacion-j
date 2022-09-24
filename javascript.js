@@ -34,7 +34,7 @@ playPause.addEventListener("click", () => {
 
 // Cuenta regresiva -------------------------------------------------------------------
 // Set the date we're counting down to
-var countDownDate = new Date("Oct 29, 2022 14:00").getTime();
+var countDownDate = new Date("Oct 29, 2022 18:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {

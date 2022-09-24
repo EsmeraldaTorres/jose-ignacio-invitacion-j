@@ -300,11 +300,11 @@ hr {
       rgba(5, 7, 12, 0.527),
       rgba(5, 7, 12, 0.514)
     ),
-    url("./assets/img-j-ignacio/globos1.png");
+    url("./assets/img-j-ignacio/pexels-pixabay-35888.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
+  background-position: right;
 }
 .window-15 {
   color: white;
@@ -378,7 +378,7 @@ hr {
       rgba(5, 7, 12, 0.274),
       rgba(5, 7, 12, 0.171)
     ),
-    url("./assets/img-j-ignacio/pexels-kaboompics-com-5878.jpg");
+    url("./assets/img-j-ignacio/pexels-toni-cuenca-619423.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -517,7 +517,7 @@ button:hover {
       rgba(5, 7, 12, 0.277),
       rgba(5, 7, 12, 0.277)
     ),
-    url("./assets/img-j-ignacio/regalos.png");
+    url("./assets/img-j-ignacio/captura-regalos.png");
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -557,7 +557,7 @@ a:hover {
 .window-back-2 {
   height: 50vh;
   max-width: 100%;
-  background-image: url("./assets/img-j-ignacio/pexels-cottonbro-3831786\ .jpg");
+  background-image: url("./assets/img-j-ignacio/captura.png");
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -627,7 +627,7 @@ a:hover {
       rgba(5, 7, 12, 0.393),
       rgba(5, 7, 12, 0.462)
     ),
-    url("./assets/img-j-ignacio/fondo\ \(1\).png");
+    url("./assets/img-j-ignacio/pexels-joonas.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
