@@ -120,7 +120,7 @@
       rgba(5, 7, 12, 0.308),
       rgba(5, 7, 12, 0.335)
     ),
-    url("./assets/img/esposos2.jpg");
+    url("./assets/img/WhatsApp\ Image\ 2023-11-29\ at\ 10.05.08\ PM.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -181,7 +181,7 @@
       rgba(5, 7, 12, 0.493),
       rgba(5, 7, 12, 0.335)
     ),
-    url("./assets/img/esposos7.jpg");
+    url("./assets/img/andre-jackson-IXLS59CTgDE-unsplash\ 21.35.31.jpg");
   height: 60vh;
   width: auto;
   background-color: rgba(0, 0, 0, 0.575);
@@ -348,7 +348,7 @@ button:hover {
 .window-back {
   height: 40vh;
   max-width: 100%;
-  background-image: url("./assets/img/esposos10.jpg");
+  background-image: url("./assets/img/pexels-jasmine-carter-888899.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -401,9 +401,10 @@ button:hover {
   outline-style: none;
 }
 .window-regalos {
-  height: min-content;
+  font-size: 2.5rem !important;
+  height: 50vh;
   max-width: 100%;
-  background-image: url("./assets/img/esposos4.jpg");
+  background-image: url("./assets/img/brenda.jpeg");
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -420,7 +421,7 @@ a:hover {
   margin: 2rem 0;
   height: 80%;
   width: 100%;
-  background-color: rgba(245, 245, 245, 0.568);
+  background-color: rgb(245 245 245 / 0%);
 }
 .logo-liverpool {
   width: 150px;
@@ -436,7 +437,14 @@ a:hover {
 .last-window-back {
   height: 100vh;
   max-width: 100%;
-  background-image: url("./assets/img/esposos1.jpg");
+  width: 100vw;
+  position: absolute;
+  margin-left: -16px;
+  background-image: linear-gradient(
+      rgba(5, 7, 12, 0.277),
+      rgba(5, 7, 12, 0.277)
+    ),
+    url("./assets/img/brenda2.jpeg");
   background-size: cover;
   -webkit-background-size: cover; /* Para Safari y Chrome antiguos */
   -moz-background-size: cover; /* Para Firefox */
