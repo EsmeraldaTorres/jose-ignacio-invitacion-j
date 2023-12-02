@@ -10,11 +10,12 @@ function abrir() {
   document.getElementsByTagName("body")[0].classList.remove("avoiding-scroll");
 
   window.scrollTo(0, 0);
+  audio.play();
+
   setTimeout(function () {
     document.getElementById("logo").classList.add("hide");
     document.getElementById("hoja-principal").classList.add("hide");
     document.getElementById("invitacion").classList.remove("hide");
-    audio.play();
   }, 2500);
 }
 
@@ -34,7 +35,7 @@ playPause.addEventListener("click", () => {
 
 // Cuenta regresiva -------------------------------------------------------------------
 // Set the date we're counting down to
-var countDownDate = new Date("Oct 29, 2022 18:00").getTime();
+var countDownDate = new Date("Dec 29, 2023 18:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {
@@ -70,3 +71,5 @@ var x = setInterval(function () {
     document.getElementById("demo").innerHTML = "EXPIRED";
   }
 }, 1000);
+
+// carousel
