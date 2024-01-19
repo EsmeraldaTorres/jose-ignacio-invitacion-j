@@ -408,6 +408,9 @@ button:hover {
 .text2 {
   width: 50%;
 }
+section {
+  display: block !important;
+}
 .window-regalos {
   height: min-content;
   max-width: 100%;
