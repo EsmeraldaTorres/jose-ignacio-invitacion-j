@@ -127,6 +127,9 @@
     ),
     url("./assets/img/boda3.jpeg");
   background-size: cover;
+  -webkit-background-size: cover; /* Para Safari y Chrome antiguos */
+  -moz-background-size: cover; /* Para Firefox */
+  -o-background-size: cover; /* Para Opera */
   background-repeat: no-repeat;
   background-position: top;
 }
@@ -169,6 +172,9 @@
   max-width: 100%;
   background-image: url("./assets/img/andre-jackson-IXLS59CTgDE-unsplash.jpg");
   background-size: cover;
+  -webkit-background-size: cover; /* Para Safari y Chrome antiguos */
+  -moz-background-size: cover; /* Para Firefox */
+  -o-background-size: cover; /* Para Opera */
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -267,6 +273,9 @@ hr {
     ),
     url("./assets/img/salon3.jpg");
   background-size: cover;
+  -webkit-background-size: cover; /* Para Safari y Chrome antiguos */
+  -moz-background-size: cover; /* Para Firefox */
+  -o-background-size: cover; /* Para Opera */
   background-repeat: no-repeat;
   background-position: bottom;
 }
@@ -353,6 +362,9 @@ button:hover {
   max-width: 100%;
   background-image: url("./assets/img/boda4.jpeg");
   background-size: cover;
+  -webkit-background-size: cover; /* Para Safari y Chrome antiguos */
+  -moz-background-size: cover; /* Para Firefox */
+  -o-background-size: cover; /* Para Opera */
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
@@ -363,6 +375,9 @@ button:hover {
   padding: 0;
   background-color: rgba(0, 0, 0, 0);
   background-size: cover;
+  -webkit-background-size: cover; /* Para Safari y Chrome antiguos */
+  -moz-background-size: cover; /* Para Firefox */
+  -o-background-size: cover; /* Para Opera */
   background-repeat: no-repeat;
   background-position: top;
 }
@@ -399,6 +414,9 @@ button:hover {
     url("./assets/img/boda6.jpeg");
   /* background-image: url("./assets/img/pexels-milan-4639620.jpg"); */
   background-size: cover;
+  -webkit-background-size: cover; /* Para Safari y Chrome antiguos */
+  -moz-background-size: cover; /* Para Firefox */
+  -o-background-size: cover; /* Para Opera */
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
@@ -466,6 +484,9 @@ a:hover {
   justify-content: center;
   align-items: center;
   background-size: cover;
+  -webkit-background-size: cover; /* Para Safari y Chrome antiguos */
+  -moz-background-size: cover; /* Para Firefox */
+  -o-background-size: cover; /* Para Opera */
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
