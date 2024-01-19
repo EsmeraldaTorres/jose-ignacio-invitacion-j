@@ -137,7 +137,6 @@
 }
 .name {
   margin-bottom: 2rem;
-  height: min-content !important;
   width: 80%;
   padding-right: 0;
 }
