@@ -83,6 +83,7 @@
 }
 
 .btn-open {
+  width: 100%;
   box-shadow: none !important;
   transition: none !important;
   position: absolute;
@@ -95,6 +96,7 @@
   outline: none;
 }
 .btn-open img {
+  text-align: center;
   height: 30%;
   width: 30%;
   padding-bottom: 2rem;
@@ -406,6 +408,9 @@ button:hover {
 section {
   display: block !important;
 }
+a {
+  color: black !important;
+}
 .window-regalos {
   height: min-content;
   max-width: 100%;
@@ -414,7 +419,6 @@ section {
       rgba(5, 7, 12, 0.335)
     ),
     url("./assets/img/boda6.jpeg");
-  /* background-image: url("./assets/img/pexels-milan-4639620.jpg"); */
   background-size: cover;
   -webkit-background-size: cover; /* Para Safari y Chrome antiguos */
   -moz-background-size: cover; /* Para Firefox */
