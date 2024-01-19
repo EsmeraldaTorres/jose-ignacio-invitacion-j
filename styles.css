@@ -176,6 +176,8 @@
   -moz-background-size: cover; /* Para Firefox */
   -o-background-size: cover; /* Para Opera */
   background-attachment: fixed;
+  -webkit-background-attachment: fixed;
+
   background-repeat: no-repeat;
   background-position: bottom;
 }
@@ -366,6 +368,8 @@ button:hover {
   -moz-background-size: cover; /* Para Firefox */
   -o-background-size: cover; /* Para Opera */
   background-attachment: fixed;
+  -webkit-background-attachment: fixed;
+
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -418,6 +422,8 @@ button:hover {
   -moz-background-size: cover; /* Para Firefox */
   -o-background-size: cover; /* Para Opera */
   background-attachment: fixed;
+  -webkit-background-attachment: fixed;
+
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -458,6 +464,8 @@ a:hover {
   -moz-background-size: cover; /* Para Firefox */
   -o-background-size: cover; /* Para Opera */
   background-attachment: fixed;
+  -webkit-background-attachment: fixed;
+
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -488,6 +496,8 @@ a:hover {
   -moz-background-size: cover; /* Para Firefox */
   -o-background-size: cover; /* Para Opera */
   background-attachment: fixed;
+  -webkit-background-attachment: fixed;
+
   background-repeat: no-repeat;
   background-position: center;
   z-index: 9;
